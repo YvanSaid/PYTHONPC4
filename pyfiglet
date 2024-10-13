@@ -1,0 +1,2 @@
+import requests
+Figlet = requests.get('http://www.figlet.org/examples.html')
